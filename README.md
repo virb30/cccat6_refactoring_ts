@@ -54,3 +54,11 @@ quanto menos parâmetros melhor
 
 introduzir abstrações
 introduzir objetos parâmetro
+
+13 - uso inadequado de controle de exceptions
+
+remover try/catch inadequado
+
+14 - indentação errada
+
+corrigir indentação
